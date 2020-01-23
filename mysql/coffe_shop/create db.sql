@@ -1,0 +1,10 @@
+SHOW DATABASES;
+
+CREATE DATABASE testsample;
+
+USE testsample;
+
+SHOW TABLES;
+
+DROP DATABASE testsample;
+DROP DATABASE sample;
